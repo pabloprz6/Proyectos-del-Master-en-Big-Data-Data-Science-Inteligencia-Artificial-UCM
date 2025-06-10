@@ -1,0 +1,11 @@
+IdUbicacion;NomUbicacion;PrecioAlquiler;Direccion;Aforo;Localidad;Caracteristicas
+1;Gran Teatro Falla;7000;Plaza Fragela, s/n, Cádiz.;1214;Cadiz;Icono cultural de Cádiz, con estilo neomudéjar. Ofrece óperas, carnavales y eventos destacados.
+2;Auditorio AXA de Barcelona;2500;Avinguda Diagonal, 547, Les Corts, Barcelona, 08029.;597;Barcelona;Espacio moderno en la Diagonal, ideal para conferencias, espectáculos y conciertos.
+3;Recinto de Barbate;1000;Avenida de la Mar, 138, Barbate, Cádiz.;33000;Barbate (Cádiz);Sede de Cabo de Plata. Perfecto para festivales de música junto a la playa.
+4;Estadio La Cartuja;20000;Ronda Super Norte, Sevilla;57600;Sevilla;Multiusos en Sevilla. Apta para conciertos, eventos deportivos y ceremonias
+5;Museo de Cadiz;500;Plaza de Mina s/n, 11004 Cádiz.;40;Cádiz;Plaza de Mina, con arqueología, bellas artes y etnología
+6;Baluarte de los Martires;650;Paseo Fernando Quiñones, 11002 Cádiz.;100;Cádiz;Antiguo bastión en Cádiz, hoy restaurante y espacio para eventos, con vistas al mar y un ambiente histórico.
+7;SanctiPetri;900;Avenida, S/N, 11139 Chiclana de la Frontera;10000;Chiclana (Cádiz);Poblado en Chiclana con playas y el Concert Music Festival. Aforo adaptado para grandes multitudes en un entorno costero.
+8;Teatro de las Aguas;15000;Calle de las Aguas, 8, Madrid.;70;Madrid;Pequeño teatro en Madrid. Ideal para monólogos y espectáculos cercanos al público.
+9;Teatro Municipal de Puerto Real;3000;Calle Amargura, 11000 Puerto Real, Cádiz.;500;Puerto Real (Cádiz);Lugar histórico en Cádiz para obras, música y eventos culturales.
+10;Teatro Alcalá;8000;Calle Jorge Juan, 62, 28009 Madrid;1300;Madrid;Moderno en Madrid. Destaca por musicales, teatro y eventos exclusivos.
