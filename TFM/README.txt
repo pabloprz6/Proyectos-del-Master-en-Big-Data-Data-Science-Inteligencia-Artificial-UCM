@@ -1,12 +1,6 @@
-yolo_runs: carpeta con los resultados del ajuste de hiperparametros y entrenamiento del modelo.
 
-Otros: carpeta con el codigo utilizado para crear una primera version del dataset del TFM fusionando distintas bases de datos de  Roboflow.
+Enlace al video en youtube: https://youtu.be/jdWDz_gmyZA?si=ai0X_Y39252M-qLC
 
-VideoTFM_PabloPerezCalvo: Video de la presentación del trabajo.
+Enlace al codigo del desarrollo del algoritmo en google colab: https://colab.research.google.com/drive/1Wyx7kZ00NYSMiSBus9yj1_gO5MfN5zzj?usp=sharing
 
-TFM.v18-tfm_militaryvehicle_dataset.yolov11.zip: Archivo con el dataset definitivo utilizado en el trabajo.
-
-TFM_YOLO11: código en Google Colab  con el desarrollo realizado en el trabajo.
-
-
-El código se ha hecho en Google Colab por falta de unidad propia con GPU, para garantizar máxima reproducibilidad debe ser ejecutado en Google Colab.
+Enlace al codigo de primera fase de creacion del dataset en google colab: https://colab.research.google.com/drive/1MvH8lHGejQyk6xFWoRzf_UI9Sf3HcE35?usp=sharing 
